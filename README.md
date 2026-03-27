@@ -2,6 +2,5 @@
 
 ## Gabriel Moreira Bonifácio de Azevedo- 907460
 
- <img  alt="print1" src="images/captura1.png>
-
- <img  alt="print2" src="images/captura2.png>
+![print1](images/captura1.png).
+![print2](images/captura2.png).
